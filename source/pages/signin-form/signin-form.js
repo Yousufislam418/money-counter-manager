@@ -3,7 +3,7 @@ function signInForm() {
    <section class="mt-80">
     <div>
      <div> 
-      <form class="w-80-pr p-50 bg-red-5 shadow-5 radius-10 mx-auto">
+      <form class="w-60-pr p-50 bg-red-5 shadow-5 radius-10 mx-auto">
        <div class="text-center mb-30">
         <h1 class="fs-25 yellow">Signin Form</h1>
        </div>
